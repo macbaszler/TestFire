@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   id="svg5226"
+   version="1.1"
+   viewBox="0 0 300 300"
+   height="300mm"
+   width="300mm">
+  <defs
+     id="defs5220">
+    <marker
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="DistanceStart"
+       style="overflow:visible">
+      <g
+         style="stroke:#040912;stroke-opacity:1;fill:#040912;fill-opacity:1"
+         id="g2300">
+        <path
+           id="path2306"
+           d="M 0,0 L 2,0"
+           style="fill:#040912;stroke:#040912;stroke-width:1.15;stroke-linecap:square;stroke-opacity:1;fill-opacity:1" />
+        <path
+           id="path2302"
+           d="M 0,0 L 13,4 L 9,0 13,-4 L 0,0 z "
+           style="fill:#040912;fill-rule:evenodd;stroke:#040912;stroke-opacity:1;fill-opacity:1" />
+        <path
+           id="path2304"
+           d="M 0,-4 L 0,40"
+           style="fill:#040912;stroke:#040912;stroke-width:1;stroke-linecap:square;stroke-opacity:1;fill-opacity:1" />
+      </g>
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="DiamondLstart"
+       refX="0.0"
+       refY="0.0"
+       orient="auto">
+      <path
+         transform="scale(0.8) translate(7,0)"
+         style="fill-rule:evenodd;stroke:#040912;stroke-width:1pt;stroke-opacity:1;fill:#040912;fill-opacity:1"
+         d="M 0,-7.0710768 L -7.0710894,0 L 0,7.0710589 L 7.0710462,0 L 0,-7.0710768 z "
+         id="path975" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="marker1165"
+       refX="0.0"
+       refY="0.0"
+       orient="auto">
+      <path
+         transform="scale(1.1) rotate(180) translate(1,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#040912;stroke-opacity:1;fill:#040912;fill-opacity:1"
+         id="path1163" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="Arrow2Lend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto">
+      <path
+         transform="scale(1.1) rotate(180) translate(1,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#040912;stroke-opacity:1;fill:#040912;fill-opacity:1"
+         id="path908" />
+    </marker>
+    <linearGradient
+       id="linearGradient881">
+      <stop
+         id="stop877"
+         offset="0"
+         style="stop-color:#faf8fc;stop-opacity:1;" />
+      <stop
+         id="stop879"
+         offset="1"
+         style="stop-color:#faf8fc;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="147"
+       x2="162.34968"
+       y1="147"
+       x1="137.65033"
+       id="linearGradient883"
+       xlink:href="#linearGradient881" />
+  </defs>
+  <metadata
+     id="metadata5223">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,3)"
+     id="layer1">
+    <rect
+       ry="66.523811"
+       y="9.5"
+       x="12.5"
+       height="275"
+       width="275"
+       id="rect5771"
+       style="opacity:0.92000002;fill:#005c94;fill-opacity:1;stroke:#faf8fc;stroke-width:1.36500001;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       id="text5775"
+       y="183.89946"
+       x="123.30782"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:95.84276581px;line-height:1.25;font-family:Jellee;-inkscape-font-specification:Jellee;letter-spacing:0px;word-spacing:0px;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:5.09400558;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.97000003;"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Jellee;-inkscape-font-specification:Jellee;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:5.09400558;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.97000003;"
+         y="183.89946"
+         x="123.30782"
+         id="tspan5773">ii</tspan></text>
+    <circle
+       r="90"
+       cy="146.99991"
+       cx="150.00002"
+       id="path885"
+       style="opacity:0.92000002;fill:none;fill-opacity:0.02898554;stroke:#ffffff;stroke-width:8.30000008;stroke-miterlimit:4;stroke-dasharray:16.60000016, 8.30000008000000022, 4.15000004000000011, 8.30000008000000022;stroke-dashoffset:0;stroke-opacity:0.97000003" />
+  </g>
+</svg>
